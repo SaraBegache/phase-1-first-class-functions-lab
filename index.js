@@ -1,5 +1,4 @@
 // Code your solution in this file!
-// Code your solution in this file!
 // returnFirstTwoDrivers()
 // should return a new array containing the first two drivers from the passed-in array
 const returnFirstTwoDrivers = function (drivers) {
